@@ -8,3 +8,5 @@ logs/
 # output dir and files
 outputs/
 *.csv
+
+.vscode
