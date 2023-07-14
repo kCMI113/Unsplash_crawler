@@ -1,0 +1,15 @@
+# url path of collection
+collection_url: https://unsplash.com/ko/컬렉션/9620472/backgrounds---summer
+
+# num of scroll
+n_scroll: 180
+
+# file path
+out_dir: outputs/
+
+# tag info
+query_Tag: 우울
+origin_Tag: 우울
+
+# csv file name
+keys_filename: imgs.csv
